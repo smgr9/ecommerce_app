@@ -36,7 +36,7 @@ class OnBoarding extends StatelessWidget {
                         color: AppColor.grey,
                         height: 2,
                         // fontSize: 20,
-                        // fontWeight: FontWeight.bold,
+                        fontWeight: FontWeight.w600,
                       ),
                     ),
                   ),
