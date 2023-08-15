@@ -6,24 +6,24 @@ List<OnboardingModel> onboardingList = [
     title: "choose product",
     image: ImageAssets.onBoardingImageOne,
     body:
-        "we Haer a 100k prouduct, choose \n your product from our E-commerce shop",
+        "We Have a 100k+ Products. Choose \n Your product from our E-\ncommerce shop.",
   ),
   OnboardingModel(
-    title: "choose product",
+    title: "Easy & Safe Payment",
     image: ImageAssets.onBoardingImageTwo,
     body:
-        "we Haer a 100k prouduct, choose \n your product from our E-commerce shop",
+        "Easy Checkout & Safe Payment\nmethod. Trusted by our Customers\nfrom all over the world.",
   ),
   OnboardingModel(
-    title: "choose product",
+    title: "Track Your Order",
     image: ImageAssets.onBoardingImageThree,
     body:
-        "we Haer a 100k prouduct, choose \n your product from our E-commerce shop",
+        "Best Tracker has been Used For\nTrack your order. Youll know where\nyour product is at the moment",
   ),
   OnboardingModel(
-    title: "choose product",
+    title: "Fast Delivery",
     image: ImageAssets.onBoardingImageFour,
     body:
-        "we Haer a 100k prouduct, choose \n your product from our E-commerce shop",
+        "Reliable And Fast Delivery. We\n Deliver your product the fastest\nway possible.",
   ),
 ];
