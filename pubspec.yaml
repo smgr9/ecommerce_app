@@ -63,7 +63,7 @@ flutter:
     - assets/images/
     - assets/images/avatar.png
     - assets/lottie/
-    - assets/svg/
+    # - assets/svg/
   fonts:
     - family: Cairo
       fonts:
