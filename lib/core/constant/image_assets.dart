@@ -1,4 +1,4 @@
-class ImageAssets {
+class AppImageAssets {
   static const String rootimages = "assets/images";
   static const String onBoardingImageOne = "$rootimages/onboardingone.PNG";
   static const String onBoardingImageTwo = "$rootimages/onboardingtwo.PNG";
